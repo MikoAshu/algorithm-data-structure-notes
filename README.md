@@ -1,6 +1,7 @@
 # README
 
-This is a fork from the repo [https://github.com/lzl124631x/algorithm](https://github.com/lzl124631x/algorithm) with additional notes and solutions to the questions.
+This repo contains some notes to data structure and algorithms. 
+It contains solutions to some leetcode questions
 
 * Gitbook: [https://michael-ashenafi.gitbook.io/algorithm-notes](https://michael-ashenafi.gitbook.io/algorithm-notes)
 * Github Repo: [https://github.com/MikoAshu/algorithm-notes](https://github.com/MikoAshu/algorithm-notes)
@@ -18,3 +19,4 @@ William Fiset
 
 * https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw
 * https://github.com/williamfiset/Algorithms
+* https://github.com/lzl124631x/algorithm
