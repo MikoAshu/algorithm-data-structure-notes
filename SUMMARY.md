@@ -12,3 +12,7 @@
   * [LeetCode 724 - Find Pivot Index](arrays/arrays/leetcode-724-find-pivot-index.md)
   * [LeetCode 11 - Container with most water](arrays/arrays/leetcode-11-container-with-most-water.md)
   * [LeetCode 42 - Trapping Rain Water](arrays/arrays/leetcode-42-trapping-rain-water.md)
+
+***
+
+* [Prefix Sum](prefix-sum.md)
