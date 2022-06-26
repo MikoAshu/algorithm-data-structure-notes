@@ -16,3 +16,5 @@
 ***
 
 * [Prefix Sum](prefix-sum.md)
+* [Strings](strings/README.md)
+  * [LeetCode 392 - is subsequence](strings/leetcode-392-is-subsequence.md)

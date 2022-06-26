@@ -1,8 +1,6 @@
 # Prefix Sum
 
-### Notes
 
-* If there is a loop that starts from an index other than **0** or **length - 1 , make sure that edge case is handled**
 
 **Applications :**&#x20;
 
