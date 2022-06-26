@@ -40,6 +40,9 @@ Return false.
 3. Build-int IndexOf function
    1. Time complexity O(m)
    2. Space complexity O(1)
+4. Stack to contain all the values inside the t string and pop each value to compare it to s string. Stop when stack is empty and value is not found
+
+
 
 ### Solution <a href="#solution" id="solution"></a>
 
@@ -92,3 +95,28 @@ class Solution {
     }
 }
 ```
+
+```java
+class Solution {
+    public boolean isSubsequence(String s, String t) {
+        // there is always some value inside both strings - constraints
+        // Create a new stack to hold all of the values in order
+        Stack<Character> stk = new Stack<>();
+        for(int i = t.length()-1; i>=0; i--){
+            stk.push(t.charAt(i));
+        }
+        
+        for(int i = 0; i<s.length(); i++){
+            char c = s.charAt(i);
+            boolean isFound = false;
+            while(!isFound && !stk.isEmpty()){
+                char k = stk.pop();
+                if(k==c) isFound = true;
+            }
+            if(!isFound) return false;
+        }
+        return true;
+    }
+}
+```
+
