@@ -18,3 +18,7 @@
 * [Prefix Sum](prefix-sum.md)
 * [Strings](strings/README.md)
   * [LeetCode 392 - is subsequence](strings/leetcode-392-is-subsequence.md)
+* [Greedy](greedy/README.md)
+  * [LeetCode 409 - Longest Palindrome](greedy/leetcode-409-longest-palindrome.md)
+* [Tree](tree/README.md)
+  * [LeetCode 589 - N-ary Tree Preorder Traversal](tree/leetcode-589-n-ary-tree-preorder-traversal.md)
