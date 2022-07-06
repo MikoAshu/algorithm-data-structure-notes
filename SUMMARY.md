@@ -22,3 +22,6 @@
   * [LeetCode 409 - Longest Palindrome](greedy/leetcode-409-longest-palindrome.md)
 * [Tree](tree/README.md)
   * [LeetCode 589 - N-ary Tree Preorder Traversal](tree/leetcode-589-n-ary-tree-preorder-traversal.md)
+* [Dynamic Programming](dynamic-programming/README.md)
+  * [LeetCode 62 - Unique Paths](dynamic-programming/leetcode-62-unique-paths.md)
+* [Binary Search Tree](binary-search-tree.md)
