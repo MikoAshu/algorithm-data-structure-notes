@@ -23,6 +23,6 @@
 * [Tree](tree/README.md)
   * [LeetCode 589 - N-ary Tree Preorder Traversal](tree/leetcode-589-n-ary-tree-preorder-traversal.md)
 * [Dynamic Programming](dynamic-programming/README.md)
-  * [LeetCode 63 - Unique Paths II](dynamic-programming/leetcode-63-unique-paths-ii.md)
   * [LeetCode 62 - Unique Paths](dynamic-programming/leetcode-62-unique-paths.md)
+  * [LeetCode 63 - Unique Paths II](dynamic-programming/leetcode-63-unique-paths-ii.md)
 * [Binary Search Tree](binary-search-tree.md)
