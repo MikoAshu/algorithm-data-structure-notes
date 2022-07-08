@@ -1,9 +1,10 @@
-# Binary Search Tree
+# Binary Search
 
 **Notes**
 
 * Mid point is calculated as `left + (right - left)/2`
 * // Easy implementation - return the mid value if it matches first
+* if a list is sorted, think of two pointers and binary search
 
 ```java
 class Solution {
