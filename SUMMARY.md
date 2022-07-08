@@ -28,4 +28,6 @@
 * [Dynamic Programming](dynamic-programming/README.md)
   * [LeetCode 62 - Unique Paths](dynamic-programming/leetcode-62-unique-paths.md)
   * [LeetCode 63 - Unique Paths II](dynamic-programming/leetcode-63-unique-paths-ii.md)
-* [Binary Search Tree](binary-search-tree.md)
+* [Binary Search](binary-search.md)
+* [Stack](stack/README.md)
+  * [LeetCode 844 - Backspace String Compare](stack/leetcode-844-backspace-string-compare.md)
