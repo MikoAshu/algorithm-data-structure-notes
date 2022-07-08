@@ -1,4 +1,4 @@
-# Binary Search
+# Binary Search Tree
 
 **Notes**
 
