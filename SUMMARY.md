@@ -33,3 +33,5 @@
 * [Stack](stack/README.md)
   * [LeetCode 844 - Backspace String Compare](stack/leetcode-844-backspace-string-compare.md)
   * [LeetCode 394. -Decode String](stack/leetcode-394.-decode-string.md)
+* [Linked List](linked-list/README.md)
+  * [LeetCode 2181 - Merge Nodes in Between Zeros](linked-list/leetcode-2181-merge-nodes-in-between-zeros.md)
