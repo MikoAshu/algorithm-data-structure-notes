@@ -2,6 +2,10 @@
 
 * [README](README.md)
 * [General Notes](general-notes/README.md)
+  * [Tech Interview Handbook](general-notes/tech-interview-handbook.md)
+  * [How to Rock the Coding Interview](general-notes/how-to-rock-the-coding-interview.md)
+  * [Coding Interview University](general-notes/coding-interview-university.md)
+  * [Awesome-Coding-Interview-Question-Patterns](general-notes/awesome-coding-interview-question-patterns.md)
   * [Hackernoon article](general-notes/hackernoon-article.md)
   * [Leetcode notes p2](general-notes/leetcode-notes-p2.md)
   * [Leetcode notes](general-notes/leetcode-notes.md)
