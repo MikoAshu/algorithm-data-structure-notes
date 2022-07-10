@@ -2,6 +2,7 @@
 
 * [README](README.md)
 * [General Notes](general-notes/README.md)
+  * [Hackernoon article](general-notes/hackernoon-article.md)
   * [Leetcode notes p2](general-notes/leetcode-notes-p2.md)
   * [Leetcode notes](general-notes/leetcode-notes.md)
 * [Monotonic Stack](monotonic-stack/README.md)
