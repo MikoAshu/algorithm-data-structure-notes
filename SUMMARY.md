@@ -34,6 +34,7 @@
   * [LeetCode 62 - Unique Paths](dynamic-programming/leetcode-62-unique-paths.md)
   * [LeetCode 63 - Unique Paths II](dynamic-programming/leetcode-63-unique-paths-ii.md)
 * [Binary Search](binary-search/README.md)
+  * [Binary Search Template](binary-search/binary-search-template.md)
   * [LeetCode 278 - First Bad Version](binary-search/leetcode-278-first-bad-version.md)
 * [Stack](stack/README.md)
   * [LeetCode 844 - Backspace String Compare](stack/leetcode-844-backspace-string-compare.md)
