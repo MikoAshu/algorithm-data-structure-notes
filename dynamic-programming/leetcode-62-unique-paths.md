@@ -40,7 +40,7 @@ Explanation: From the top-left corner, there are a total of 3 ways to reach the 
 
 ### Time complexity
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 
 
